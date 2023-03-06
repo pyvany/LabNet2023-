@@ -42,7 +42,7 @@ namespace POO
             {
 
                 num2++;
-                Console.WriteLine("Omnibus n°" + num);
+                Console.WriteLine("Taxi n°" + num2);
                 Console.WriteLine(item.Pasajeros());
             }
 
